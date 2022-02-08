@@ -6,3 +6,5 @@ The original code, which is still on my laptop, has several additional features 
 - URL Validation
 - Evaluating and displaying the count of external nofollow and dofollow links
 - Ability to find outgoing links to a specific domain (both nofollow as well as dofollow)
+<br>
+Currently there are no tools that do all of these for free.
